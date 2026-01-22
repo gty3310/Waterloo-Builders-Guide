@@ -24,7 +24,7 @@ If you’re planning a trip, here are the **two best times of year**:
 
 - [lu.ma/Waterloo_ca](https://lu.ma/waterloo_ca) Event List (auto generated)
 - [lu.ma/WaterlooEvents](https://lu.ma/waterlooevents) Event List (curated list that anyone can add an event to)
-- [wat2do.ca](wat2do.ca) (curated list of all Waterloo events posted on Instagram)
+- [wat2do.ca](https://wat2do.ca) (curated list of all Waterloo events posted on Instagram)
 
 ---
 
