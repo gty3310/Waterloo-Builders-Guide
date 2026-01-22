@@ -54,6 +54,9 @@ Communities + Spaces to Work with Builders
 - [Waterloo Startup Resource List (Founder Institute)](https://fi.co/insight/waterloo-startup-resource-list-400-accelerators-investors-and-more): Everything in Waterloo Startup Ecosystem, except a bit outdated
 
 ---
+## ✉️Hire from Waterloo
+- [University of Waterloo Engineering Coop Hiring Guide (Umesh Khanna)](https://x.com/forwarddeploy/status/2013722436068614451)
+---
 
 ## 👤 About the Editors of This Doc (Listed Alphabetically)
 - Brenda Li: Co-founder of Waterloo Akatos House
